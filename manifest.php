@@ -12,14 +12,14 @@ $manifest = array (
         'CE','PRO','ENT','CORP','ULT'
       ),
       'key'=>'jjwg',
-      'author' => 'Jeff Walters',
+      'author' => 'Jeff Walters, Sven Anders',
       'description' => 'JJWDesign Google Maps v2.0 for SugarCRM v6.2+',
       'icon' => 'images/default/images/icon_jjwg_Maps.gif',
       'is_uninstallable' => true,
       'name' => 'JJWDesign_Google_Maps',
-      'published_date' => '2013-02-03 12:01:01',
+      'published_date' => '2013-03-20 10:01:01',
       'type' => 'module',
-      'version' => '2.0.1-6.2+',
+      'version' => '2.0.2-DIGITEC',
       'remove_tables' => 'prompt'
 );
 
