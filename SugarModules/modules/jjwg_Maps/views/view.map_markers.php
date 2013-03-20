@@ -33,7 +33,7 @@ class Jjwg_MapsViewMap_Markers extends SugarView {
     }
     #map_canvas {
       width: 100%;
-      height: 500px;
+      height: 700px;
       border: 0;
     }
     div.marker {
