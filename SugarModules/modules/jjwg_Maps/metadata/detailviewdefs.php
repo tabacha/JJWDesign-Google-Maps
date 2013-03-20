@@ -17,6 +17,8 @@ array (
           1 => 'DUPLICATE',
           2 => 'DELETE',
         ),
+   // Csutom
+        'footerTpl' => 'modules/jjwg_Maps/tpls/DetailViewFooter.tpl',
       ),
       'maxColumns' => '2',
       'widths' => 
